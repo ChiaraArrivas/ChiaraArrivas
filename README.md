@@ -1,6 +1,6 @@
 Hi there 👋
 - 💻 I’m a Full Stack Developer Student and Developer
-- 🌱 I’m currently learning | Java, SQL and Java Enterprise Edition
+- 🌱 I’m currently learning | Java, SQL, Java Enterprise Edition and Angular.
 - 📫 How to reach me | ritarrivas96@gmail.com
 <hr>
 <h3 align="left">Connect with me:</h3>
